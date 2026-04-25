@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/alex/oop_labs/huffman_coding/decoder.cpp" "CMakeFiles/decoder.dir/decoder.cpp.o" "gcc" "CMakeFiles/decoder.dir/decoder.cpp.o.d"
+  "/home/alex/oop_labs/huffman_coding/src/BitReader.cpp" "CMakeFiles/decoder.dir/src/BitReader.cpp.o" "gcc" "CMakeFiles/decoder.dir/src/BitReader.cpp.o.d"
   "/home/alex/oop_labs/huffman_coding/src/BitWriter.cpp" "CMakeFiles/decoder.dir/src/BitWriter.cpp.o" "gcc" "CMakeFiles/decoder.dir/src/BitWriter.cpp.o.d"
   "/home/alex/oop_labs/huffman_coding/src/Code.cpp" "CMakeFiles/decoder.dir/src/Code.cpp.o" "gcc" "CMakeFiles/decoder.dir/src/Code.cpp.o.d"
   "/home/alex/oop_labs/huffman_coding/src/HuffmanTree.cpp" "CMakeFiles/decoder.dir/src/HuffmanTree.cpp.o" "gcc" "CMakeFiles/decoder.dir/src/HuffmanTree.cpp.o.d"

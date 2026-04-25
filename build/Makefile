@@ -190,6 +190,30 @@ encoder.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/encoder.dir/build.make CMakeFiles/encoder.dir/encoder.cpp.s
 .PHONY : encoder.cpp.s
 
+src/BitReader.o: src/BitReader.cpp.o
+.PHONY : src/BitReader.o
+
+# target to build an object file
+src/BitReader.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/decoder.dir/build.make CMakeFiles/decoder.dir/src/BitReader.cpp.o
+.PHONY : src/BitReader.cpp.o
+
+src/BitReader.i: src/BitReader.cpp.i
+.PHONY : src/BitReader.i
+
+# target to preprocess a source file
+src/BitReader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/decoder.dir/build.make CMakeFiles/decoder.dir/src/BitReader.cpp.i
+.PHONY : src/BitReader.cpp.i
+
+src/BitReader.s: src/BitReader.cpp.s
+.PHONY : src/BitReader.s
+
+# target to generate assembly for a file
+src/BitReader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/decoder.dir/build.make CMakeFiles/decoder.dir/src/BitReader.cpp.s
+.PHONY : src/BitReader.cpp.s
+
 src/BitWriter.o: src/BitWriter.cpp.o
 .PHONY : src/BitWriter.o
 
@@ -314,6 +338,9 @@ help:
 	@echo "... encoder.o"
 	@echo "... encoder.i"
 	@echo "... encoder.s"
+	@echo "... src/BitReader.o"
+	@echo "... src/BitReader.i"
+	@echo "... src/BitReader.s"
 	@echo "... src/BitWriter.o"
 	@echo "... src/BitWriter.i"
 	@echo "... src/BitWriter.s"

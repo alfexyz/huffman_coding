@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/decoder.dir/decoder.cpp.o"
   "CMakeFiles/decoder.dir/decoder.cpp.o.d"
+  "CMakeFiles/decoder.dir/src/BitReader.cpp.o"
+  "CMakeFiles/decoder.dir/src/BitReader.cpp.o.d"
   "CMakeFiles/decoder.dir/src/BitWriter.cpp.o"
   "CMakeFiles/decoder.dir/src/BitWriter.cpp.o.d"
   "CMakeFiles/decoder.dir/src/Code.cpp.o"
