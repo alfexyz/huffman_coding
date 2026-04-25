@@ -1,0 +1,4 @@
+/home/alex/oop_labs/huffman_coding/build/CMakeFiles/encoder.dir
+/home/alex/oop_labs/huffman_coding/build/CMakeFiles/decoder.dir
+/home/alex/oop_labs/huffman_coding/build/CMakeFiles/edit_cache.dir
+/home/alex/oop_labs/huffman_coding/build/CMakeFiles/rebuild_cache.dir
